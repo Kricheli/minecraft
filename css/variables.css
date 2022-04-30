@@ -1,0 +1,21 @@
+:root{
+        /* colors varibles */
+        --primary-color: #aaaaaa;
+        --secondary-color: #555555;
+        --hover-btn: #087008;
+        --sky: #7ec0ee;
+
+
+
+        /* temp */
+        --white:rgb(232, 232, 232);
+        --black:rgb(34, 34, 34);
+        --purple: rgba(159, 0, 203, 0.73);
+        --blue-elements-bg:rgb(0, 24, 239);
+        --red-error:rgb(255, 0, 0);
+
+       /* temp size varibles */
+        --border-radius-btn: 12px;
+
+        --font-size-btn-hover: 1.5rem;
+}

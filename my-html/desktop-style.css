@@ -1,0 +1,60 @@
+@media (min-width: 851px){
+        *{
+                margin: 0;
+                padding: 0;
+        }
+        body{
+                font-family: "minecraft";
+                background-color: var(--bg-color);
+        }
+        .page{
+                height: 100vh;
+        }
+        .container{
+                background: url("/media/img/desktop-start-page-bg.jpg") no-repeat center center/cover;
+                height: 100vh;
+        }
+        .logo{
+                background: url("/media/img/Minecraft-Logo.png") no-repeat center;
+                position: relative;
+                left: 10%;
+                height: 100%;
+                width: 85%;
+        }
+        .opening-page-buttons{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                align-items: center;
+                position: relative;
+                bottom: 40%;
+        }
+        .opening-page-buttons button{
+                width: 300px;
+                margin-top: 10px;
+                padding: 10px 30px;
+                color: var(--black);
+                background-color: var(--white);
+                opacity: 85%;
+                border: 2px solid var(--black);
+                border-radius: var(--border-radius-btn);
+                box-shadow: 30px 30px 80px var(--black);
+        }
+        .opening-page-buttons button:hover{
+                font-size: var(--font-size-btn-hover);
+                background-color: var(--purple);
+        }
+        .game{
+                -webkit-user-select: none;
+                display: grid;
+                grid-template-columns: 1fr 150px;
+        }
+        .game-container{
+                
+        }
+
+
+        
+}
+
+

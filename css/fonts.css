@@ -1,0 +1,34 @@
+/* Header font */
+@font-face {
+        font-family: "minecraft";
+        src: url("../fonts/Minecraft.ttf") format("OpenType");
+        font-weight: normal;
+        font-style: normal;
+      }
+/* start button font */
+@import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
+
+@font-face {
+        font-family: "minecraft";
+        src: url("../fonts/MinecraftRegular.otf") format("OpenType");
+        font-weight: normal;
+        font-style: normal;
+      }
+@font-face {
+        font-family: "minecraft";
+        src: url("../fonts/MinecraftItalic.otf") format("OpenType");
+        font-weight: normal;
+        font-style: italic;
+      }
+@font-face {
+        font-family: "minecraft";
+        src: url("../fonts/MinecraftBold.otf") format("OpenType");
+        font-weight: bold;
+        font-style: normal;
+      }
+@font-face {
+        font-family: "minecraft";
+        src: url("../fonts/MinecraftBoldItalic.otf") format("OpenType");
+        font-weight: bold;
+        font-style: italic;
+      }
